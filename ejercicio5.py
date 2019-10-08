@@ -1,6 +1,6 @@
 """
 	Ejemplo 5: uso de funcion lambda
-	@reroes
+	@pablom7
 """
 datos = (
 		(100, 170),

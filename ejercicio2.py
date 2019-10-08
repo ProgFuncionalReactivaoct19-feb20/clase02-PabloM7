@@ -1,6 +1,6 @@
 """
 	Ejemplo 2: uso de funcion lambda
-	@reroes
+	@pablom7
 """
 
 

@@ -1,6 +1,6 @@
 """
 	Ejemplo 6: uso de funcion lambda
-	@reroes
+	@pablom7
 """
 
 lista = [10, 2, 3, 5, 1]

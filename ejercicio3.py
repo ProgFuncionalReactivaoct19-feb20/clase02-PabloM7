@@ -1,6 +1,6 @@
 """
 	Ejemplo 3: uso de funcion lambda
-	@reroes
+	@pablom7
 """
 
 # Cada elemento de datos, tiene (edad y estatura)
